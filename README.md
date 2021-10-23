@@ -22,5 +22,5 @@ To prevent data leakage, the dataset is splited in advance.
 
 ## Reference
 
-[^1]:1 D. A. Hudson and C. D. Manning, “GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering,” CVPR 2019, pp. 6693-6702
-[^2]:2 N. Dalal and B. Triggs, “Histograms of Oriented Gradients for Human Detection”. CVPR 2005
+[^1]: D. A. Hudson and C. D. Manning, “GQA: A New Dataset for Real-World Visual Reasoning and Compositional Question Answering,” CVPR 2019, pp. 6693-6702
+[^2]: N. Dalal and B. Triggs, “Histograms of Oriented Gradients for Human Detection”. CVPR 2005
